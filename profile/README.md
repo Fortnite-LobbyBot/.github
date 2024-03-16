@@ -6,4 +6,4 @@
 - Discord: https://discord.fnlb.net/
 
 ## Join the community
-<a href="https://discord.fnlb.net/"><img src="https://discord.com/api/guilds/1106879710744543303/widget.png?style=banner2"></a>
+<a href="https://discord.fnlb.net/"><img src="https://discord.com/api/guilds/1106879710744543303/widget.png?style=banner3"></a>
