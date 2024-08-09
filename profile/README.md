@@ -1,9 +1,9 @@
 ![banner](https://github.com/FNLB-Project/.github/assets/57068341/dc2b1416-bef5-4d15-b893-2211b442755a)
 
-<a href="https://www.fnlb.net/"><img width="110" height="110" align="right" alt="FNLB" src="https://cdn.fnlb.net/assets/FNLB.png" /></a>
+<a href="https://fnlb.net/"><img width="110" height="110" align="right" alt="FNLB" src="https://cdn.fnlb.net/assets/FNLB.png" /></a>
 
 # FNLB - Fortnite Lobby Bot
-- Website: https://www.fnlb.net/
+- Website: https://fnlb.net/
 - Status: https://status.fnlb.net/
 - Discord: https://discord.fnlb.net/
 
